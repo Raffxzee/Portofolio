@@ -1,5 +1,5 @@
 import React from "react";
-import profileImage from "../pp.jpg";
+import profileImage from "../muka.png";
 
 const Hero = () => (
   <section className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800 text-center px-4">
